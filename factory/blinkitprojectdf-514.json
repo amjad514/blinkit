@@ -1,0 +1,9 @@
+{
+	"name": "blinkitprojectdf-514",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa893d06-0599-4924-9fe4-0016487622a3",
+		"tenantId": "f8b80851-b657-4b49-9fe8-8f1c22068ac5"
+	}
+}
