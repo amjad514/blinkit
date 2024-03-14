@@ -17,6 +17,18 @@
 		"AzureDataLakeStorage514_accountKey": {
 			"value": ""
 		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase2_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase3_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase4_connectionString": {
+			"value": ""
+		},
 		"blinkeditrawdata1_connectionString": {
 			"value": ""
 		},
